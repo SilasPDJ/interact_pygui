@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: prime-nums
+Version: 1.0.0
+Summary: stop execution until key is pressed, press a hotkey how many times you want
+Home-page: https://github.com/SilasPDJ/interact_pygui
+Author: silaspdj
+Author-email: pdj@gmail.com
+Project-URL: Bug Tracker, https://github.com/SilasPDJ/interact_pygui/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# interact_pygui
+ 
+## Example Usage:
+### This lib uses **pyautogui** and **keyboard** as it main dependences
+---
+### All methods are well explained in the repository. Any doubts or questions, please post them on **ISSUES**
+
+- stop execution until key is pressed (press_key_b4) 
+- press more than one key at once (all_keys)
+- press hotkey how many times you want
+---
+
+SPECIAL THANKS TO https://github.com/asweigart/pyautogui AND https://github.com/boppreh/keyboard
+
